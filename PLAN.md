@@ -18,9 +18,10 @@ Create the technical base for a data-driven combat and loot prototype.
 
 ## Core Decisions
 
-* Engine: Unity
+* Engine: Unity 6
 * Language: C#
-* Target-first mindset: mobile-friendly UI and input
+* Target platform: Mobile only (iOS and Android)
+* Target-first mindset: touch input, portrait/landscape layouts, mobile screen sizes
 * Architecture priority: combat logic independent from UI
 * Data priority: equipment and effects should be easy to add, remove, and tune
 
